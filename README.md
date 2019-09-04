@@ -11,7 +11,7 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis]()
+* [travis](https://www.travis-ci.com/401-advanced-javascript-hanna-alemu/Lab-16-Event-Driven-App)
 * [heroku]()
 #### Documentation
 * Jsdoc included inline
