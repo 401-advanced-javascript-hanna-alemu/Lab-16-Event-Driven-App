@@ -10,9 +10,9 @@
    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json",  
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR]()
 * [travis](https://www.travis-ci.com/401-advanced-javascript-hanna-alemu/Lab-16-Event-Driven-App)
-* [heroku]()
+* [heroku](https://lab-16-event-driven-apps.herokuapp.com/)
 #### Documentation
 * Jsdoc included inline
 
